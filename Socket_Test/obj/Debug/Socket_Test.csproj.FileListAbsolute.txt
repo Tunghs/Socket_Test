@@ -1,0 +1,15 @@
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\bin\Debug\Socket_Test.exe.config
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\bin\Debug\Socket_Test.exe
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\bin\Debug\Socket_Test.pdb
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test.csprojAssemblyReference.cache
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\MainWindow.g.cs
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\App.g.cs
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test_MarkupCompile.cache
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test_MarkupCompile.lref
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\MainWindow.baml
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test.g.resources
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test.Properties.Resources.resources
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test.csproj.GenerateResource.cache
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test.csproj.CoreCompileInputs.cache
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test.exe
+C:\Users\dljdg\source\repos\Socket_Test\Socket_Test\obj\Debug\Socket_Test.pdb
